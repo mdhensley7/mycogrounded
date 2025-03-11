@@ -1,13 +1,14 @@
-title: "My Blogs Name"
-author: "Default Author Name"
-description: "Some short description of your blog can go here." # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
+title: Mycorrhiza Grounded
+author: Michael D. Hensley
+description: Often, fungi are either overlooked or believed to be omnipotent. They are incredible organisms that deserve more attention but should be recognized 
+as Earthly organisms like the rest of us. They may not save us but they are incredible none the less. As the world's biodiversity slips, we need to include fungi in our efforts of conservation. The question should not be, "what can fungi do for us", but, "what can we do for fungi".  # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
 
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
-email: "example@mail.com"
-twitter_username: "twitteruser"
-github_username: "githubuser"
-linkedin_username: "linkedinuser"
+#email: "example@mail.com"
+#twitter_username: "twitteruser"
+#github_username: "githubuser"
+#linkedin_username: "linkedinuser"
 #facebook_username: username
 #flickr_username: username
 #instagram_username: username
